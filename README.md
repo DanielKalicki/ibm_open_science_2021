@@ -16,6 +16,7 @@ The best achieved fidelity for the full state tomography on the ibmq_jakarta wer
 2. **0.8260** and **0.8107** fidelity for a similar circuit as above but run on 26th March 2022 (job id: 623ec33ba2f72d3234dabd1a and 623ec0c974de0e833f85b645). All the settings were the same as above with the exception that no additional calibration routines were run (due to high queue on the machine) and 10 full tomography scans were used for the ZNE.
 
 For the full details of the design circuit and results from other experiments please refer to the included paper.
+[IBM open science 2021.pdf](IBM open science 2021.pdf)
 
 <br/>
 
