@@ -1,7 +1,7 @@
 # ibm_open_science_2021
 
 ## Final results
-For this solution the decision was to use the Qiskit Pulse for the IBM open science prize 2021 challenge, this module allowed us to explore the possibilities of precise quantum control.
+For this solution the decision was to use the Qiskit Pulse for the [IBM open science prize 2021 challenge](https://research.ibm.com/blog/quantum-open-science-prize), this module allowed us to explore the possibilities of precise quantum control.
 
 The best achieved fidelity for the full state tomography on the ibmq_jakarta were:
 1. **0.8437** fidelity with zero noise extrapolation (fidelity without error mitigation techniques, but including measurement filter was 0.5278). The experiment was run on 20th March 2022 (job id: 623754a3d97bff37d8693572). The circuit was based on:
